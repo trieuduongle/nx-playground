@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@playground/components": ["libs/components/src/index.ts"],
-      "@playground/hooks": ["libs/hooks/src/index.ts"]
+      "@playground/hooks": ["libs/hooks/src/index.ts"],
+      "@playground/intl": ["libs/intl/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"],

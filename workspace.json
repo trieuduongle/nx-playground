@@ -4,6 +4,7 @@
   "projects": {
     "components": "libs/components",
     "hooks": "libs/hooks",
+    "intl": "libs/intl",
     "playground": "apps/playground",
     "playground-e2e": "apps/playground-e2e"
   }
