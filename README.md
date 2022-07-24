@@ -4,5 +4,5 @@
 
 ### CLI Commands
 
-- Generate new React lib (publishable and buildable)
-  - npx nx g @nrwl/react:lib myLib --publishable --buildable
+- Generate new React lib (publishable and buildable). If you have `publishable`, then `importPath` is required
+  - npx nx g @nrwl/react:lib myLib --publishable --buildable --importPath=...
